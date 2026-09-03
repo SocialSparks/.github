@@ -57,8 +57,8 @@ Tu actives ce qui sert à cet événement, tu laisses le reste de côté.
 
 ## 🏢 Yatu for Business
 
-Yatu s’adresse aussi à celles et ceux dont organiser est le métier. **Yatu for
-Business** ouvre un espace d’organisateur à tout type de structure :
+**[yatu-pro.com](https://yatu-pro.com)** — l’espace des organisateurs. Pour les lieux,
+les assos, les collectifs, et toute structure dont organiser est le métier :
 
 > Association loi 1901 · Société (SAS, SARL, SCOP…) · Collectivité ou
 > établissement public · Établissement d’enseignement · Fédération ou réseau ·
@@ -66,21 +66,19 @@ Business** ouvre un espace d’organisateur à tout type de structure :
 
 Ce que l’espace ajoute, en plus de tout ce que fait déjà l’app :
 
-- **Une page publique** à ton nom, avec tes événements à venir.
-- **Des événements publiés** — en brouillon, programmés, ou en ligne.
-- **Des inscriptions qui te ressemblent** : ouvertes, sur validation, ou adossées à ta billetterie.
-- **Une jauge et une liste d’attente**, pour ne pas remplir deux fois la même place.
-- **L’émargement à l’entrée**, le jour J.
-- **Une équipe**, avec des rôles — plusieurs personnes tiennent l’espace, pas un seul compte partagé.
+- **Une fiche publique par événement**, partageable, et visible dans « Découvrir » de l’app.
+- **Inscriptions, demandes et billetterie externe** — libre, sur acceptation, ou via ta billetterie. Yatu redirige et **n’encaisse jamais tes ventes**.
+- **Trois canaux séparés** : un fil d’annonces en lecture seule, une discussion modérée, des chambres entre occupants — sans exposer la liste des inscrits.
+- **Une jauge, une liste d’attente et l’émargement** à l’entrée.
+- **Des statistiques par événement** : inscriptions, présence, remplissage.
+- **Une page par lieu ou par équipe**, plusieurs espaces sur un compte, avec des rôles.
 
 Quatre formules, du paiement **à l’événement** — sans abonnement ni carte à
-l’inscription — jusqu’à **Scale** pour les lieux et les festivals qui gèrent
-plusieurs pages et plusieurs équipes.
+l’inscription — jusqu’à **Scale** pour les lieux et les festivals. Le barème
+détaillé est sur [yatu-pro.com](https://yatu-pro.com) et fait foi dans les CGV.
 
-**Premier segment ouvert : les BDE et associations étudiantes.** Un espace unique
-pour un WEI, un gala ou un séjour ski, avec un pack pilote → [yatu-app.com/bde](https://yatu-app.com/bde)
-
-Pour tout autre type de structure : [support@yatu-app.com](mailto:support@yatu-app.com)
+Un parcours dédié aux **BDE et associations étudiantes** (WEI, gala, séjour ski) :
+[yatu-app.com/bde](https://yatu-app.com/bde)
 
 ---
 
@@ -94,7 +92,8 @@ Pour tout autre type de structure : [support@yatu-app.com](mailto:support@yatu-a
 
 ## 📬 Contact
 
-- **Site** : [yatu-app.com](https://yatu-app.com)
+- **L’app, entre amis** : [yatu-app.com](https://yatu-app.com)
+- **L’espace organisateur** : [yatu-pro.com](https://yatu-pro.com)
 - **Support** : [support@yatu-app.com](mailto:support@yatu-app.com)
 - **Confidentialité** : [yatu-app.com/confidentialite](https://yatu-app.com/confidentialite) · [Mentions légales](https://yatu-app.com/mentions-legales)
 
