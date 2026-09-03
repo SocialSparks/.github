@@ -70,6 +70,7 @@ Ce que l’espace ajoute, en plus de tout ce que fait déjà l’app :
 - **Inscriptions, demandes et billetterie externe** — libre, sur acceptation, ou via ta billetterie. Yatu redirige et **n’encaisse jamais tes ventes**.
 - **Trois canaux séparés** : un fil d’annonces en lecture seule, une discussion modérée, des chambres entre occupants — sans exposer la liste des inscrits.
 - **Une jauge, une liste d’attente et l’émargement** à l’entrée.
+- **Une mise en avant dans « Découvrir »** et des **rappels avant l’événement** — sur les plans Pro et Scale. Parmi les événements d’une même journée, les tiens passent devant ; le fil reste chronologique.
 - **Des statistiques par événement** : inscriptions, présence, remplissage.
 - **Une page par lieu ou par équipe**, plusieurs espaces sur un compte, avec des rôles.
 
