@@ -1,34 +1,69 @@
-# SocialSpark
+# Yatu
 
-**SocialSpark** est une application mobile conçue pour révolutionner l'organisation d'événements. Que ce soit pour des événements sociaux, professionnels ou familiaux, **SocialSpark** offre une solution pratique et moderne pour simplifier la planification, la gestion des participants, et bien plus encore.
+**L’appli pour organiser un événement entre amis — sans que tout retombe sur une seule personne.**
 
----
+Soirée, anniversaire, week-end, voyage, festival, rando : Yatu réunit au même endroit
+la discussion, les infos clés, le planning, le budget partagé, les listes et l’album photo.
 
-## 📲 Qu'est-ce que SocialSpark ?
-
-SocialSpark est bien plus qu’une simple application d’organisation d’événements. Elle permet de centraliser toutes les étapes nécessaires à la création, gestion et suivi d’un événement, tout en offrant une expérience utilisateur intuitive et agréable.
-
----
-
-## 🚀 Pourquoi choisir SocialSpark ?
-
-- Outils simples et efficaces pour la planification d’événements.
-- Optimisée pour les événements de toutes tailles, du plus petit au plus grand.
-- Interface moderne et intuitive.
-- Focus sur la facilité d’usage et l'expérience utilisateur.
+🌐 **[yatu-app.com](https://yatu-app.com)** · Sortie le **9 septembre 2026**
 
 ---
 
-## 📥 Téléchargement
+## 😩 Avant
 
-L'application est actuellement disponible en version beta fermée. Restez connecté pour ne pas manquer le lancement officiel.
+Une conversation de groupe qui défile, l’adresse perdue quelque part dans les messages,
+un tableur pour les comptes, et des photos qu’on réclame pendant trois semaines.
+À la fin, une seule personne a tout porté.
+
+## ✨ Avec Yatu
+
+Tu crées l’événement, ton groupe te rejoint avec un lien. À partir de là, tout se passe
+dedans : ce qui se décide, ce qui se paie, ce qui se prépare et ce qu’il en reste.
+
+- **Tout tient dans l’événement** — les décisions, les infos pratiques et les photos restent là où le groupe va les chercher.
+- **Le groupe participe vraiment** — chacun peut proposer, cocher une tâche, ajouter une dépense ou déposer ses photos.
+- **L’organisateur souffle** — tu n’as plus à tout suivre, tout rappeler et tout avancer.
 
 ---
 
-## 👥 Contact
+## 🧩 Les modules
 
-Pour toute question ou demande de renseignements, n'hésitez pas à nous contacter :
+Tu actives ce qui sert à cet événement, tu laisses le reste de côté.
 
-- **Email** : support@socialspark.com
-  
-Suivez-nous sur les réseaux sociaux pour rester informé des dernières mises à jour !
+| Module | Ce qu’il fait |
+| --- | --- |
+| **Discussion** | La conversation du groupe, rattachée à l’événement. Le seul module qu’on ne coupe jamais. |
+| **Infos clés** | L’adresse, le code du portail, le numéro à appeler. Épinglés en haut de l’événement. |
+| **Planning** | Le programme de l’événement, heure par heure. Chacun sait quoi, où et quand. |
+| **Budget** | Chaque dépense notée, la répartition calculée, et qui rembourse qui à la fin. |
+| **Listes et tâches** | Courses, affaires à prendre, choses à faire. On coche, le groupe suit. |
+| **Discussion cachée** | Un salon invisible pour une personne de l’événement, le temps de préparer sa surprise. |
+| **Souvenirs** | L’album partagé de l’événement. Chacun dépose ses photos et récupère celles des autres. |
+| **Documents** | Billets, réservations, attestations. Rangés une fois, retrouvés par tous. |
+
+---
+
+## 🎓 Yatu pour les BDE et les associations
+
+Un espace unique pour un WEI, un gala ou un séjour ski : inscriptions validées par le
+bureau, annonces officielles des organisateurs, planning, chambres, discussion et album photo.
+
+→ [yatu-app.com/bde](https://yatu-app.com/bde)
+
+---
+
+## 🔒 Tes événements sont à toi. Tes données aussi.
+
+- **Jamais utilisées pour la pub** — tes données servent à faire fonctionner et sécuriser Yatu. Elles ne sont ni vendues ni louées, et ne servent pas au ciblage publicitaire.
+- **Protégées à chaque étape** — accès restreints, connexions chiffrées et conservation encadrée.
+- **Imaginée et faite en France** — Yatu est une application française, conçue et développée en France par une équipe française.
+
+---
+
+## 📬 Contact
+
+- **Site** : [yatu-app.com](https://yatu-app.com)
+- **Support** : [support@yatu-app.com](mailto:support@yatu-app.com)
+- **Confidentialité** : [yatu-app.com/confidentialite](https://yatu-app.com/confidentialite) · [Mentions légales](https://yatu-app.com/mentions-legales)
+
+Yatu est édité par **QUANTIQ STUDIO**, SAS immatriculée au R.C.S. de Lyon.
