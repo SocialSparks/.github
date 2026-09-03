@@ -43,12 +43,32 @@ Tu actives ce qui sert à cet événement, tu laisses le reste de côté.
 
 ---
 
-## 🎓 Yatu pour les BDE et les associations
+## 🏢 Yatu for Business
 
-Un espace unique pour un WEI, un gala ou un séjour ski : inscriptions validées par le
-bureau, annonces officielles des organisateurs, planning, chambres, discussion et album photo.
+Yatu s’adresse aussi à celles et ceux dont organiser est le métier. **Yatu for
+Business** ouvre un espace d’organisateur à tout type de structure :
 
-→ [yatu-app.com/bde](https://yatu-app.com/bde)
+> Association loi 1901 · Société (SAS, SARL, SCOP…) · Collectivité ou
+> établissement public · Établissement d’enseignement · Fédération ou réseau ·
+> Collectif informel · Entrepreneur individuel
+
+Ce que l’espace ajoute, en plus de tout ce que fait déjà l’app :
+
+- **Une page publique** à ton nom, avec tes événements à venir.
+- **Des événements publiés** — en brouillon, programmés, ou en ligne.
+- **Des inscriptions qui te ressemblent** : ouvertes, sur validation, ou adossées à ta billetterie.
+- **Une jauge et une liste d’attente**, pour ne pas remplir deux fois la même place.
+- **L’émargement à l’entrée**, le jour J.
+- **Une équipe**, avec des rôles — plusieurs personnes tiennent l’espace, pas un seul compte partagé.
+
+Quatre formules, du paiement **à l’événement** — sans abonnement ni carte à
+l’inscription — jusqu’à **Scale** pour les lieux et les festivals qui gèrent
+plusieurs pages et plusieurs équipes.
+
+**Premier segment ouvert : les BDE et associations étudiantes.** Un espace unique
+pour un WEI, un gala ou un séjour ski, avec un pack pilote → [yatu-app.com/bde](https://yatu-app.com/bde)
+
+Pour tout autre type de structure : [support@yatu-app.com](mailto:support@yatu-app.com)
 
 ---
 
@@ -67,3 +87,4 @@ bureau, annonces officielles des organisateurs, planning, chambres, discussion e
 - **Confidentialité** : [yatu-app.com/confidentialite](https://yatu-app.com/confidentialite) · [Mentions légales](https://yatu-app.com/mentions-legales)
 
 Yatu est édité par **QUANTIQ STUDIO**, SAS immatriculée au R.C.S. de Lyon.
+« Yatu » est une marque déposée par QUANTIQ STUDIO.
