@@ -87,4 +87,4 @@ Pour tout autre type de structure : [support@yatu-app.com](mailto:support@yatu-a
 - **Confidentialité** : [yatu-app.com/confidentialite](https://yatu-app.com/confidentialite) · [Mentions légales](https://yatu-app.com/mentions-legales)
 
 Yatu est édité par **QUANTIQ STUDIO**, SAS immatriculée au R.C.S. de Lyon.
-« Yatu » est une marque déposée par QUANTIQ STUDIO.
+Le logo **Yatu** fait l’objet d’une marque figurative déposée à l’INPI par QUANTIQ STUDIO le 20 juillet 2026 (n° 26 5280134).
