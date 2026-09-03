@@ -7,6 +7,18 @@ la discussion, les infos clés, le planning, le budget partagé, les listes et l
 
 🌐 **[yatu-app.com](https://yatu-app.com)** · Sortie le **9 septembre 2026**
 
+<!--
+  ⏰ LE 9 SEPTEMBRE 2026 — remplacer la ligne ci-dessus par celle-ci :
+
+  🌐 **[yatu-app.com](https://yatu-app.com)** · [App Store](https://apps.apple.com/fr/app/organiser-entre-amis-yatu/id6737450955) · [Google Play](https://play.google.com/store/apps/details?id=com.socialspark.www)
+
+  Pourquoi c'est écrit ici et pas dans un ticket : le site vitrine découvre les
+  liens stores tout seul le jour J (LAUNCH_DATE dans lib/content.ts, bascule
+  côté client sans redéploiement). Cette page est la SEULE surface publique de
+  Yatu qui ne se met pas à jour d'elle-même — sans cette note, elle annoncerait
+  encore une sortie à venir alors que l'app serait en magasin.
+-->
+
 ---
 
 ## 😩 Avant
